@@ -1,0 +1,1 @@
+static REGISTERS = &[i8; 16];
